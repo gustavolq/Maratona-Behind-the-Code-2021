@@ -1,4 +1,4 @@
-# **Maratona Behind the Code 2021**
+# <p align='center'> **Maratona Behind the Code 2021**
 
 ## **1. Sobre a Maratona**
 A Maratona Behind the Code é um evento realizado desde 2019 pela IBM e seus parceiros para desenvolvedores e entusiastas da América Latina (Argentina, Brasil, Chile, Colômbia, Equador, México, Peru, Uruguai e Venezuela), onde as suas 3 edições já reuniram mais de 100.000 desenvolvedores juntas.
