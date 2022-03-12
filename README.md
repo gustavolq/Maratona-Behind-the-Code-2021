@@ -32,7 +32,7 @@ No geral, outros prêmios foram oferecidos aos participantes durante a Maratona 
 - *[Certificado de Participação](certificados/Desafio05-SONDA.pdf)*
 - Ranking : 74º
 ## **4. Resultados na Maratona**
-:tropheu: **TOP 100 (25º) do Ranking Geral da Maratona Behind the Code** <br>
-:tropheu: **TOP 5 Vencedores da Maratona Behind the Code 2021 após 3º lugar no Desafio Final para o TOP 100**.
+🏆 **TOP 100 (25º) do Ranking Geral da Maratona Behind the Code** <br>
+🏆 **TOP 5 Vencedores da Maratona Behind the Code 2021 após 3º lugar no Desafio Final para o TOP 100**.
 
 <img src='certificados/TOP5-Desafio06.png'>
