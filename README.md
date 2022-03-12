@@ -1,6 +1,5 @@
 # <p align='center'> **Maratona Behind the Code 2021**
 
-## **Conteúdo :**
   - [**1. Sobre a Maratona**](#1-sobre-a-maratona)
   - [**2. Edição de 2021**](#2-edição-de-2021)
     - [**2.1 Premiação**](#21-premiação)
