@@ -1,5 +1,17 @@
 # <p align='center'> **Desafio 02 - Quanam**
 
+  - [**1. Sobre Quanam e Aleph**](#1-sobre-quanam-e-aleph)
+  - [**2. Desafio de Negócio**](#2-desafio-de-negócio)
+  - [**3. Objetivo**](#3-objetivo)
+  - [**4. Tecnologias Utilizadas**](#4-tecnologias-utilizadas)
+  - [**5. Desenvolvimento da Solução**](#5-desenvolvimento-da-solução)
+    - [**Parte 1- Alertas de Sensores**](#parte-1--alertas-de-sensores)
+      - [**Solução**](#solução)
+    - [**Parte 2 - Predição com dados de IoT**](#parte-2---predição-com-dados-de-iot)
+      - [**Código utilizando ```paho-mqtt```**](#código-utilizando-paho-mqtt)
+      - [**Comando via Shell**](#comando-via-shell)
+  - [**6. Sobre a Avaliação**](#6-sobre-a-avaliação)
+
 ## **1. Sobre Quanam e Aleph**
 *Quanam* é uma federação internacional de empresas cujo objetivo é a inovação e a gestão do conhecimento para o benefício dos clientes e da comunidade através da consultoria empresarial, gestão e aplicação de tecnologias de pontas em diferentes segmentos.
 
@@ -179,7 +191,7 @@ PASSWORD: btc-2021
 
 Para realizar a captura dos dados e a transformação dos dados para ```.csv```, optei por utilizar o pacote ```paho-mqtt``` no Python, mas também encontrei outras opções como utilizar via linha de comando (shell) o pacote ```mosquitto_sub```.
 
-#### **Código utilizando ```paho-mqtt```** :
+#### **Código utilizando ```paho-mqtt```**
 ```python
 import paho.mqtt.client as mqtt
 import json
