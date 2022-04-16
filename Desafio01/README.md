@@ -7,7 +7,6 @@
   - [**5. Desenvolvimento da Solução**](#5-desenvolvimento-da-solução)
   - [**6. Submissão**](#6-submissão)
   - [**7. Avaliação do Modelo**](#7-avaliação-do-modelo)
-  - [**8. Arquivos do Repositório**](#8-arquivos-do-repositório)
 
 ## **1. Sobre a Bantonal**
 A Bantonal é a plataforma bancária líder na América Latina, que resolve as operações de missão crítica das Instituições Financeiras de forma simples e precisa.
@@ -66,7 +65,3 @@ Para a entrega do desafio, foi realizado o preenchimento do arquivo [ANSWERS.csv
 
 ## **7. Avaliação do Modelo**
 A avaliação do modelo foi realizada automaticamente utilizando os dados enviados no arquivo ```ANSWERS.csv``` para calcular uma pontuação numérica de 1 até 100, baseada na métrica **F1-Score**.
-
-## **8. Arquivos do Repositório**
-- [data](data) : Pasta com os arquivos .csv utilizados
-- [Desafio01.ipynb](Desafio01.ipynb) : Arquivo do Jupyter Notebook com explorações e criação do modelo de Machine Learning.

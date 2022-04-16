@@ -1,5 +1,6 @@
 # <p align='center'> **Desafio 02 - Quanam**
 
+
   - [**1. Sobre Quanam e Aleph**](#1-sobre-quanam-e-aleph)
   - [**2. Desafio de Negócio**](#2-desafio-de-negócio)
   - [**3. Objetivo**](#3-objetivo)
@@ -10,7 +11,7 @@
     - [**Parte 2 - Predição com dados de IoT**](#parte-2---predição-com-dados-de-iot)
       - [**Código utilizando ```paho-mqtt```**](#código-utilizando-paho-mqtt)
       - [**Comando via Shell**](#comando-via-shell)
-  - [**6. Sobre a Avaliação**](#6-sobre-a-avaliação)
+  - [**6. Avaliação do Modelo**](#6-avaliação-do-modelo)
 
 ## **1. Sobre Quanam e Aleph**
 *Quanam* é uma federação internacional de empresas cujo objetivo é a inovação e a gestão do conhecimento para o benefício dos clientes e da comunidade através da consultoria empresarial, gestão e aplicação de tecnologias de pontas em diferentes segmentos.
@@ -237,5 +238,5 @@ mosquitto_sub -h iot.maratona.dev -p 31666 -u maratoners -P btc-2021 -t quanam
 
 A partir dos dados obtidos via IoT, o nosso objetivo foi realizar uma predição de qual será o ritmo cardíaco de uma pessoa para saber se ela está em risco ou não. Portanto, após o agrupamento dos dados, a tarefa foi realizar um modelo de **regressão**, que era capaz de predizer qual o ritmo cardíaco de um paciente baseando-se nas medidas disponíveis.
 
-## **6. Sobre a Avaliação**
+## **6. Avaliação do Modelo**
 Uma semana após o início do desafio, o sistema de avaliação automática começou as avaliações. O sistema de avaliação utilizou os dados enviados para calcular uma pontuação numérica de 1 até 100, baseada nas respostas de alertas IoT e na métrica R².
