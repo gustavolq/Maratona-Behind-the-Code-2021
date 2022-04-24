@@ -2,13 +2,12 @@
 
   - [**1. Sobre a Maratona**](#1-sobre-a-maratona)
   - [**2. Edição de 2021**](#2-edição-de-2021)
-    - [**2.1 Premiação**](#21-premiação)
   - [**3. Desafios**](#3-desafios)
-    - [Desafio 01 - Bantotal](#desafio-01---bantotal)
-    - [Desafio 02 - Quanam](#desafio-02---quanam)
-    - [Desafio 03 - GFT](#desafio-03---gft)
-    - [Desafio 04 - Algar Tech](#desafio-04---algar-tech)
-    - [Desafio 05 - SONDA](#desafio-05---sonda)
+    - [**Desafio 01 - Bantotal**](#desafio-01---bantotal)
+    - [**Desafio 02 - Quanam**](#desafio-02---quanam)
+    - [**Desafio 03 - GFT**](#desafio-03---gft)
+    - [**Desafio 04 - Algar Tech**](#desafio-04---algar-tech)
+    - [**Desafio 05 - SONDA**](#desafio-05---sonda)
   - [**4. Resultados na Maratona**](#4-resultados-na-maratona)
 
 ## **1. Sobre a Maratona**
@@ -27,23 +26,23 @@ Os vencedores da Maratona receberam o título de Master Devs da região e vouche
 No geral, outros prêmios foram oferecidos aos participantes durante a Maratona Behind the Code 2021 como a possibilidade de participar de entrevistas de emprego na IBM Consulting América Latina, vouchers em dólares para resgatar em marketplaces e bolsas da Digital House para realização de cursos online em Marketing Digital, Data Analytics, Programação Web ou Data Science.
 
 ## **3. Desafios**
-### [Desafio 01 - Bantotal](Desafio01)
+### **[Desafio 01 - Bantotal](Desafio01)**
 - *[Certificado de Participação](certificados/Desafio01-Bantotal.pdf)*
 - Ranking : 45º
-### [Desafio 02 - Quanam](Desafio02)
+### **[Desafio 02 - Quanam](Desafio02)**
 - *[Certificado de Participação](certificados/Desafio02-Quanam.pdf)*
 - Ranking : 80º
-### [Desafio 03 - GFT](Desafio03)
+### **[Desafio 03 - GFT](Desafio03)**
 - *[Certificado de Participação](certificados/Desafio03-GFT.pdf)*
 - Ranking : 47º
-### [Desafio 04 - Algar Tech](Desafio04)
+### **[Desafio 04 - Algar Tech](Desafio04)**
 - *[Certificado de Participação](certificados/Desafio04-AlgarTech.pdf)*
 - Ranking : 25º
-### [Desafio 05 - SONDA](Desafio05)
+### **[Desafio 05 - SONDA](Desafio05)**
 - *[Certificado de Participação](certificados/Desafio05-SONDA.pdf)*
 - Ranking : 74º
 ## **4. Resultados na Maratona**
-🏆 **TOP 100 (25º) do Ranking Geral da Maratona Behind the Code** <br>
-🏆 **TOP 5 Vencedores da Maratona Behind the Code 2021 após 3º lugar no Desafio Final para o TOP 100**.
+🏆 **TOP 100 (25º) do Ranking Geral dos 5 Primeiros Desafios da Maratona Behind the Code** <br>
+🏆 **TOP 5 Vencedores da Maratona Behind the Code 2021 após 3º lugar no Desafio Final (6º Desafio único para o TOP 100)**.
 
 <img src='certificados/TOP5-Desafio06.png'>
